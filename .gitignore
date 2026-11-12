@@ -1,0 +1,24 @@
+# Local exercises and editor settings
+/Quiz1113/
+/.vscode/
+
+# C/C++ build directories
+/build/
+/out/
+/.vs/
+CMakeFiles/
+CMakeCache.txt
+
+# Compiled files and debugger artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.pdb
+*.ilk
+*.dSYM/
